@@ -1,6 +1,6 @@
 # Robot Maze con Finch Robot (Java, Eclipse)
 
-Este proyecto fue realizado como parte de una asignatura de Java en el Grado Superior de Desarrollo de Aplicaciones Multiplataforma.  
+Este proyecto fue realizado como parte de una asignatura de Java en el Grado Superior de Desarrollo de Aplicaciones Web.  
 El objetivo era programar un **Finch Robot** para que pudiera recorrer un laberinto físico, controlando sus movimientos desde un script en Java.
 
 ---
